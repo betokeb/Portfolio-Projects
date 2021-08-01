@@ -2,7 +2,7 @@
 Covid 19 Data Exploration 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-Date: 07-17-2021
+Date of data: 07-17-2021
 Source: https://ourworldindata.org/covid-deaths
 
 */
