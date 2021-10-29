@@ -3,7 +3,7 @@ Cleaning Data in SQL Queries
 
 The objective of this project is to clean the data and make it more usable
 
-Original DataSet: 
+Original DataSet: Nashville Housing Data
 
 
 */
